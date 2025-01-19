@@ -6,6 +6,7 @@ public class label_02_dec_program {
 
         int a =10;
         System.out.println(++a + a++ + a++);
+
         System.out.println(a);
 
     }
